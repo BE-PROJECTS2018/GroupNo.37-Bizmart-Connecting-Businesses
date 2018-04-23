@@ -1,0 +1,149 @@
+
+
+#question
+{
+border: 2px solid rgb(173, 204, 204);
+height: 31px;
+width: content;
+box-shadow: 0px 0px 27px rgb(204, 204, 204) inset;
+transition:500ms all ease;
+padding:3px 3px 3px 3px;
+}
+
+#question:hover, #question:focus
+{
+width:260px;
+transition:500ms all ease;
+background:url(2.jpg) no-repeat right;
+background-size:25px 25px;
+background-position:96% 62%;
+padding:3px 32px 3px 3px;
+}
+
+#answer1
+{
+border: 2px solid rgb(173, 204, 204);
+height: 31px;
+width: content;
+box-shadow: 0px 0px 27px rgb(204, 204, 204) inset;
+transition:500ms all ease;
+padding:3px 3px 3px 3px;
+}
+
+#answer1:hover, #answer1:focus
+{
+width:260px;
+transition:500ms all ease;
+background:url(msg.png) no-repeat right;
+background-size:25px 25px;
+background-position:96% 62%;
+padding:3px 32px 3px 3px;
+}
+
+#answer2
+{
+border: 2px solid rgb(173, 204, 204);
+height: 31px;
+width: content;
+box-shadow: 0px 0px 27px rgb(204, 204, 204) inset;
+transition:500ms all ease;
+padding:3px 3px 3px 3px;
+}
+
+#answer2:hover, #answer2:focus
+{
+width:260px;
+transition:500ms all ease;
+background:url(msg.png) no-repeat right;
+background-size:25px 25px;
+background-position:96% 62%;
+padding:3px 32px 3px 3px;
+}
+
+#answer3
+{
+border: 2px solid rgb(173, 204, 204);
+height: 31px;
+width: content;
+box-shadow: 0px 0px 27px rgb(204, 204, 204) inset;
+transition:500ms all ease;
+padding:3px 3px 3px 3px;
+}
+
+#answer3:hover, #answer3:focus
+{
+width:260px;
+transition:500ms all ease;
+background:url(msg.png) no-repeat right;
+background-size:25px 25px;
+background-position:96% 62%;
+padding:3px 32px 3px 3px;
+}
+
+#answer4
+{
+border: 2px solid rgb(173, 204, 204);
+height: 31px;
+width: content;
+box-shadow: 0px 0px 27px rgb(204, 204, 204) inset;
+transition:500ms all ease;
+padding:3px 3px 3px 3px;
+}
+
+#answer4:hover, #answer4:focus
+{
+width:260px;
+transition:500ms all ease;
+background:url(msg.png) no-repeat right;
+background-size:25px 25px;
+background-position:96% 62%;
+padding:3px 32px 3px 3px;
+}
+
+#correct
+{
+border: 2px solid rgb(173, 204, 204);
+height: 31px;
+width: content;
+box-shadow: 0px 0px 27px rgb(204, 204, 204) inset;
+transition:500ms all ease;
+padding:3px 3px 3px 3px;
+}
+
+#correct:hover, #correct:focus
+{
+width:260px;
+transition:500ms all ease;
+background:url(3.jpg) no-repeat right;
+background-size:25px 25px;
+background-position:96% 62%;
+padding:3px 32px 3px 3px;
+}
+
+#add{
+
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+#add{
+    background-color: white; 
+    color: black; 
+    border: 2px solid black;
+	margin-left:100px;
+}
+
+#add:hover {
+    background-color: #009688;
+    color: white;
+}
+#data{
+	margin-top:50px;
+	text-align:center;
+}

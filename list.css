@@ -1,0 +1,35 @@
+#container{		
+		width:400px;
+		height:500px;
+		background-color:#CFCFCF;
+		margin:0px auto;
+		text-align:center;
+		margin-top:150px;
+		border-radius:5px;
+		opacity:.7;
+		margin-top:40px;
+		display:block;
+		font-size:20px;
+	
+	}
+	
+
+	table {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+th {
+    text-align: left;
+    padding: 8px;
+
+}
+td {
+    text-align: left;
+    padding: 8px;
+	color:#009688;
+	
+}
+
+tr:nth-child(even){background-color: #f2f2f2}

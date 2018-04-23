@@ -1,0 +1,16 @@
+
+table
+{
+	overflow-y:auto;
+}
+th
+{
+	
+	 background-color:#009883;
+
+}
+td
+{
+	 border-right: solid 1px #f00; 
+  border-left: solid 1px #f00;
+}
